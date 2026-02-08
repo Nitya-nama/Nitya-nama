@@ -3,7 +3,7 @@ Hi 👋, I'm Nitya Nama
 Aspiring Software Engineer | Full‑Stack & Machine Learning Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Flask+Backend+Engineer;Machine+Learning+Explorer;Always+Building+Projects&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=ASPIRING+AI+ML+DEVELOPER;Flask+Backend+Engineer;Machine+Learning+Explorer;Always+Building+Projects&center=true&width=500&height=50">
 </p>
 ---
 
