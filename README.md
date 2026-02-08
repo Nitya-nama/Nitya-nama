@@ -1,30 +1,65 @@
-Hi 👋, I'm Nitya Nama
-
-Aspiring Software Engineer | Full‑Stack & Machine Learning Enthusiast
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=ASPIRING+AI+ML+DEVELOPER;Flask+Backend+Engineer;Machine+Learning+Explorer;Always+Building+Projects&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Nitya+Nama;Software+Engineer;Backend+%7C+Machine+Learning&center=true&width=520&height=45" />
+</p><p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
 </p>
+---
 
-🚀 About Me
+About Me
 
-🎓 Computer Science student passionate about building real‑world applications
+Computer Science student focused on practical software development
 
-🧠 Interested in backend systems, APIs, and applied machine learning
+Interested in backend systems, APIs, and applied machine learning
 
-🌙 Strong believer in learning by shipping projects
+Learn by building real projects and shipping them
 
-💬 Ask me about: Python, Flask, REST APIs, ML basics
 
-🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/nitya-nama"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto: nityanama101@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/></a>
+---
+
+Skills
+
+Languages: Python, JavaScript, HTML, CSS
+Frameworks & Tools: Flask, React, Git, Linux
+Databases & Cloud: MongoDB, Docker, AWS
+
+
+---
+
+Projects
+
+Film Equipment Rental Management System
+Full‑stack rental platform with booking workflow and inventory tracking
+
+Pokémon Battle Simulator
+Interactive web app using Flask backend and JavaScript frontend
+
+Spam SMS Detection (ML)
+NLP model to classify spam messages
+
+GDP Prediction using ML
+Regression model analyzing economic indicators
+
+
+---
+
+GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&title_color=0e75b6&icon_color=0e75b6" />
+</p><p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" />
 </p>
+---
 
-🧰 Tech Stack
+Contact
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,js,html,css,flask,react,mongodb,git,linux,docker,aws" />
-</p>
-⭐ Always open to collaboration and learning opportunities
+LinkedIn: https://linkedin.com/in/YOUR_ID
+Email: YOUR_EMAIL
+
+
+---
+
+Open to internships and collaboration opportunities
