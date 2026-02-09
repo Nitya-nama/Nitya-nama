@@ -4,10 +4,10 @@
 
 ### Let's explore more about me! :)
 
-* 🤖 Computer Science student and aspiring software engineer
-* 🛠 Building full‑stack projects with Flask & JavaScript
-* 🧠 Interested in backend systems, APIs & applied ML
-* ⚡ Fun fact: I enjoy shipping projects fast and learning by doing
+*  Computer Science student and aspiring software engineer
+*  Building full‑stack projects with Flask & JavaScript
+*  Interested in backend systems, APIs & applied ML
+*  Fun fact: I enjoy shipping projects fast and learning by doing
 
 <br/>
 
@@ -56,18 +56,13 @@
 <a href="https://github.com/Nitya-nama">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/YOUR_ID">
+<a href="https://www.linkedin.com/in/nitya-nama">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:nityanama101@gmail.com">
+<img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>  
-</div>  
-
-<br/>  
-
-## Github Stats
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Nitya-nama&show_icons=true&count_private=true&hide_border=true" /></div>  
-
-<br/>  
+</div>    
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Nitya-nama&&style=flat-square" />
