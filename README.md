@@ -16,49 +16,55 @@
 ## My Skill Set
 
 ### Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,postgres" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="45"/>
+<img src="https://skillicons.dev/icons?i=java" height="45"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+<img src="https://skillicons.dev/icons?i=postgres" height="45"/>
 </p>
 
 ### AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Reinforcement_Learning-6A5ACD?style=for-the-badge" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
+<img src="https://skillicons.dev/icons?i=pytorch" height="45"/>
+<img src="https://skillicons.dev/icons?i=opencv" height="45"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Reinforcement_Learning-6A5ACD?style=for-the-badge"/>
 </p>
 
 ### Data & Visualization
-
-<p>
-<img src="https://skillicons.dev/icons?i=numpy,pandas" />
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Seaborn-2E8B57?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=numpy" height="45"/>
+<img src="https://skillicons.dev/icons?i=pandas" height="45"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-2E8B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 </p>
 
 ### Tools & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,aws,gcp,azure" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
-<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=aws" height="45"/>
+<img src="https://skillicons.dev/icons?i=gcp" height="45"/>
+<img src="https://skillicons.dev/icons?i=azure" height="45"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
 </p>
 
 ### Core CS
-
-<p>
-<img src="https://img.shields.io/badge/Data_Structures-007ACC?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OOP-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DBMS-FF8C00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Operating_Systems-2F4F4F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Computer_Networks-708090?style=for-the-badge" />
-<img src="https://img.shields.io/badge/REST_APIs-25A162?style=for-the-badge" />
+<p align="left">
+<img src="https://img.shields.io/badge/Data_Structures-007ACC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-FF8C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Operating_Systems-2F4F4F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer_Networks-708090?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_APIs-25A162?style=for-the-badge"/>
 </p>
 
 ## Connect with me
@@ -75,9 +81,9 @@
 </a>  
 </div>    
 
-
+<br>
 <div align="center">
-<b>🤝 Feel free to connect & collaborate!</b>
+<b><h3>🤝 Feel free to connect & collaborate!</h3>h3></b>
 </div>
 
 
