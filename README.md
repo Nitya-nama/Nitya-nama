@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="220" />
 </p>
 
 Hi 👋, I'm Nitya Nama
