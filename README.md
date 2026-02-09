@@ -83,7 +83,7 @@
 
 <br>
 <div align="center">
-<b><h3>🤝 Feel free to connect & collaborate!</h3>h3></b>
+<b><h3>🤝 Feel free to connect & collaborate!</h3></b>
 </div>
 
 
