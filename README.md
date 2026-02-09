@@ -11,44 +11,55 @@
 
 <br/>
 
+<br/>
+
 ## My Skill Set
 
-<table><tr><td valign="top" width="33%">
+### Programming
 
-### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,postgres" />
+</p>
 
-<div align="center">  
-<a href="https://reactjs.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" /></a>  
-<a href="https://www.w3schools.com/css/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50" /></a>  
-<a href="https://www.javascript.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" /></a>  
-</div>
+### AI / Machine Learning
 
-</td><td valign="top" width="33%">
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Reinforcement_Learning-6A5ACD?style=for-the-badge" />
+</p>
 
-### Backend
+### Data & Visualization
 
-<div align="center">  
-<a href="https://www.python.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" height="50" /></a>  
-<a href="https://nodejs.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50" /></a>  
-<a href="https://www.mongodb.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50" /></a>  
-<a href="https://github.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" /></a>  
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=numpy,pandas" />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Seaborn-2E8B57?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+</p>
 
-</td><td valign="top" width="33%">
+### Tools & Cloud
 
-### DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,aws,gcp,azure" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
+<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+</p>
 
-<div align="center">  
-<a href="https://aws.amazon.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" height="50" /></a>  
-<a href="https://www.linux.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="50" /></a>  
-</div>
+### Core CS
 
-</td></tr></table>  
-
-<br/>  
+<p>
+<img src="https://img.shields.io/badge/Data_Structures-007ACC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OOP-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DBMS-FF8C00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Operating_Systems-2F4F4F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer_Networks-708090?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST_APIs-25A162?style=for-the-badge" />
+</p>
 
 ## Connect with me
 
@@ -63,5 +74,14 @@
 <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>  
 </div>    
+
+
+<div align="center">
+<b>🤝 Feel free to connect & collaborate!</b>
+</div>
+
+
+
+
 
 
