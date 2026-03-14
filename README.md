@@ -62,12 +62,6 @@
 
 </div>
 
-<div align="center">
-
-![streak](https://streak-stats.demolab.com?user=Nitya-nama&theme=midnight-purple&hide_border=true&background=1a0d2e&ring=A78BFA&fire=F472B6&currStreakLabel=A78BFA&sideLabels=e9d5ff&dates=c4b5fd&currStreakNum=ffffff&sideNums=ffffff)
-
-</div>
-
 ---
 
 ### 🤝 Let's Connect!
