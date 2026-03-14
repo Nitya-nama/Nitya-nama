@@ -1,93 +1,69 @@
-### <h1 align="left">Hi! 👋 My name is Nitya Nama</h1>
-
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
-
-### Let's explore more about me! :)
-
-*  Computer Science student and aspiring software engineer
-*  Building full‑stack projects with Flask & JavaScript
-*  Interested in backend systems, APIs & applied ML
-*  Fun fact: I enjoy shipping projects fast and learning by doing
-
-<br/>
-
-<br/>
-
-## My Skill Set
-
-### Programming
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python" height="45"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="45"/>
-<img src="https://skillicons.dev/icons?i=java" height="45"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
-<img src="https://skillicons.dev/icons?i=postgres" height="45"/>
-</p>
-
-### AI / Machine Learning
-<p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
-<img src="https://skillicons.dev/icons?i=pytorch" height="45"/>
-<img src="https://skillicons.dev/icons?i=opencv" height="45"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Reinforcement_Learning-6A5ACD?style=for-the-badge"/>
-</p>
-
-### Data & Visualization
-<p align="left">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-2E8B57?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-</p>
-
-### Tools & Cloud
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git" height="45"/>
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-<img src="https://skillicons.dev/icons?i=aws" height="45"/>
-<img src="https://skillicons.dev/icons?i=gcp" height="45"/>
-<img src="https://skillicons.dev/icons?i=azure" height="45"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-</p>
-
-### Core CS
-<p align="left">
-<img src="https://img.shields.io/badge/Data_Structures-007ACC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OOP-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DBMS-FF8C00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Operating_Systems-2F4F4F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer_Networks-708090?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST_APIs-25A162?style=for-the-badge"/>
-</p>
-
-## Connect with me
-
 <div align="center">
-<a href="https://github.com/Nitya-nama">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/nitya-nama">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:nityanama101@gmail.com">
-<img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>  
-</div>    
 
-<br>
-<div align="center">
-<b><h3>🤝 Feel free to connect & collaborate!</h3></b>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E3BFF&height=180&section=header&text=Nitya%20Nama&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=62&descSize=18&descColor=c4b5fd" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=6E3BFF&center=true&vCenter=true&width=500&lines=Building+intelligent+systems;ML+%7C+Flask+%7C+React+%7C+Python;Open+to+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 </div>
 
+<br/>
 
+```python
+nitya = {
+    "role"     : "AI & Full Stack Engineer",
+    "location" : "Bengaluru, India",
+    "cgpa"     : "9.3 / 10",
+    "building" : "Production ML systems & scalable web apps",
+    "open_to"  : ["Full-time", "Freelance", "Collaborations"],
+}
+```
 
+<br/>
 
+## 🛠️ Stack
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
+<br/>
+
+## 🚀 Featured
+
+| Project | What it does | |
+|---------|-------------|---|
+| **PharmaGuard** | AI pharmacogenomic risk prediction from `.VCF` genetic data | [![live](https://img.shields.io/badge/live-00C853?style=flat-square)](https://rift-2026-ai-hunters.vercel.app/) [![code](https://img.shields.io/badge/code-181717?style=flat-square&logo=github)](https://github.com/Chandan-N-2004/RIFT2026_AI_HUNTERS) |
+| **EcoVision** | ARIMA + LSTM economic forecasting — 88% accuracy | [![live](https://img.shields.io/badge/live-00C853?style=flat-square)](https://ecovision-frontend-gold.vercel.app/) [![code](https://img.shields.io/badge/code-181717?style=flat-square&logo=github)](https://github.com/Nitya-nama/ECOVISION) |
+| **Emotion Detection** | BERT NLP classifier — 92% accuracy, <250ms latency | [![code](https://img.shields.io/badge/code-181717?style=flat-square&logo=github)](https://github.com/Nitya-nama/Emotion-detection) |
+| **CineRent ERP** | Full-stack ERP with JWT auth, 1000+ records | [![code](https://img.shields.io/badge/code-181717?style=flat-square&logo=github)](https://github.com/Nitya-nama/Cinerent_ERP) |
+
+<br/>
+
+## 📊 Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Nitya-nama&show_icons=true&hide_border=true&bg_color=0d0b14&title_color=6E3BFF&icon_color=FF2D9B&text_color=c4b5fd&ring_color=6E3BFF&hide=issues"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitya-nama&layout=compact&hide_border=true&bg_color=0d0b14&title_color=6E3BFF&text_color=c4b5fd&langs_count=6"/>
+
+</div>
+
+<br/>
+
+## 🤝 Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-6E3BFF?style=for-the-badge&logo=vercel&logoColor=white)](https://nitya-nama.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitya-nama)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nityanama101@gmail.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E3BFF&height=100&section=footer" width="100%"/>
