@@ -12,13 +12,10 @@
 
 ### 💜 About Me
 
-- 🎓 **B.E. CSE** @ RR Institute of Technology — **9.3 CGPA**
-- 💼 Currently interning as **Python Full Stack Dev** @ PySpiders
 - 🤖 I build **end-to-end ML systems** that actually work in production
-- 🧬 Shipped AI apps trained on **20,000+ records** with real users
-- 🏆 Competed in **Google, Microsoft & RIFT-26** hackathons
+- 🧬 Shipped AI apps **trained** with real users
+- 🏆 Competed in **multiple** hackathons
 - 🌸 Fun fact: I love shipping fast and learning by doing!
-- 📍 Based in **Bengaluru, India**
 - 💌 Always open to collabs & cool ideas!
 
 <br clear="right"/>
@@ -53,21 +50,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-### 🌟 Featured Projects
-
-<div align="center">
-
-| 🔬 | Project | What it does | Links |
-|:--:|---------|-------------|-------|
-| 🧬 | **PharmaGuard** | AI drug safety prediction from genetic `.VCF` data | [![live](https://img.shields.io/badge/live%20demo-00C853?style=flat-square&logo=vercel&logoColor=white)](https://rift-2026-ai-hunters.vercel.app/) [![code](https://img.shields.io/badge/code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Chandan-N-2004/RIFT2026_AI_HUNTERS) |
-| 📈 | **EcoVision** | ARIMA + LSTM forecasting — 88% accuracy ✨ | [![live](https://img.shields.io/badge/live%20demo-00C853?style=flat-square&logo=vercel&logoColor=white)](https://ecovision-frontend-gold.vercel.app/) [![code](https://img.shields.io/badge/code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nitya-nama/ECOVISION) |
-| 😶 | **Emotion Detection** | BERT NLP · 92% accuracy · <250ms response | [![code](https://img.shields.io/badge/code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nitya-nama/Emotion-detection) |
-| 🎬 | **CineRent ERP** | Full-stack ERP · JWT auth · 1000+ records | [![code](https://img.shields.io/badge/code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nitya-nama/Cinerent_ERP) |
-
-</div>
 
 ---
 
