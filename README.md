@@ -24,57 +24,78 @@
 
 ### 🛠️ My Toolkit
 
-### Programming
+**💻 Programming**
+
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python" height="45"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="45"/>
-<img src="https://skillicons.dev/icons?i=java" height="45"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
-<img src="https://skillicons.dev/icons?i=postgres" height="45"/>
+<img src="https://skillicons.dev/icons?i=python" height="40"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="40"/>
+<img src="https://skillicons.dev/icons?i=java" height="40"/>
+<img src="https://skillicons.dev/icons?i=js" height="40"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+<img src="https://skillicons.dev/icons?i=postgres" height="40"/>
 </p>
 
-### AI / Machine Learning
+**🤖 AI / Machine Learning**
+
 <p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
-<img src="https://skillicons.dev/icons?i=pytorch" height="45"/>
-<img src="https://skillicons.dev/icons?i=opencv" height="45"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" height="40"/>
+<img src="https://skillicons.dev/icons?i=pytorch" height="40"/>
+<img src="https://skillicons.dev/icons?i=opencv" height="40"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Reinforcement_Learning-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/NLP%20%2F%20BERT-4B8BBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ARIMA%20%2F%20LSTM-6A5ACD?style=for-the-badge"/>
 </p>
 
-### Data & Visualization
+**📊 Data & Visualization**
+
 <p align="left">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Seaborn-2E8B57?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 </p>
 
-### Tools & Cloud
+**🌐 Web & Backend**
+
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git" height="45"/>
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-<img src="https://skillicons.dev/icons?i=aws" height="45"/>
-<img src="https://skillicons.dev/icons?i=gcp" height="45"/>
-<img src="https://skillicons.dev/icons?i=azure" height="45"/>
+<img src="https://skillicons.dev/icons?i=react" height="40"/>
+<img src="https://skillicons.dev/icons?i=flask" height="40"/>
+<img src="https://skillicons.dev/icons?i=django" height="40"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
+<img src="https://img.shields.io/badge/REST%20APIs-25A162?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+</p>
+
+**☁️ Cloud & Tools**
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws" height="40"/>
+<img src="https://skillicons.dev/icons?i=gcp" height="40"/>
+<img src="https://skillicons.dev/icons?i=azure" height="40"/>
+<img src="https://skillicons.dev/icons?i=git" height="40"/>
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+<img src="https://skillicons.dev/icons?i=vercel" height="40"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
 </p>
 
-### Core CS
+**🧠 Core CS**
+
 <p align="left">
-<img src="https://img.shields.io/badge/Data_Structures-007ACC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Structures-007ACC?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OOP-8A2BE2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DBMS-FF8C00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Operating_Systems-2F4F4F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer_Networks-708090?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST_APIs-25A162?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-2F4F4F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Networks-708090?style=for-the-badge"/>
 </p>
+
 
 ### 📊 GitHub Stats
 
