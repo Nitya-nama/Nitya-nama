@@ -1,138 +1,88 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hi%20there!%20I'm%20Nitya%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=MSc%20Data%20Science%20with%20Machine%20Learning%20•%20University%20of%20Hertfordshire&descAlignY=60&descSize=18&descColor=e9d5ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Nitya%20Nama&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=MSc%20Data%20Science%20with%20Machine%20Learning%20%7C%20University%20of%20Hertfordshire&descAlignY=60&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist+📊;Machine+Learning+Engineer+🤖;Data+Analyst+📈;Business+Intelligence+Enthusiast+📉;Building+AI-powered+solutions+with+Python+🐍;Open+to+UK+Internships+and+Graduate+Roles+✨)](https://git.io/typing-svg)
+# Machine Learning • Data Science • Analytics
+
+*Building intelligent solutions with Machine Learning, Data Analytics and AI.*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-6E3BFF?style=for-the-badge)](https://nitya-nama.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitya-nama)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nitya-nama)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nityanama101@gmail.com)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="320" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"/>
+> **✨ Recommended:** Create an original animated SVG named `assets/neural-network.svg` and embed it below. Inspired by modern AI visualizations, but not copied from any existing README.
 
-# 👋 About Me
+<p align="center">
+<img src="assets/neural-network.svg" width="900" alt="Animated Neural Network"/>
+</p>
 
-I'm **Nitya Nama**, currently pursuing an **MSc in Data Science with Machine Learning** at the **University of Hertfordshire (UK)**.
+---
 
-I enjoy transforming raw data into actionable insights through **Machine Learning**, **Data Analytics**, **Business Intelligence**, and **AI-powered applications**.
+<img align="right" width="320" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"/>
 
-My interests include:
+## 👋 About Me
 
-- 🤖 Machine Learning & Predictive Analytics
-- 📊 Data Analytics & Business Intelligence
-- 🧠 Deep Learning & Computer Vision
-- 💬 Natural Language Processing (NLP)
-- 🐍 Python-based AI Applications
-- ☁️ Cloud-enabled Data Solutions
+Hi, I'm **Nitya Nama**, currently pursuing an **MSc in Data Science with Machine Learning** at the **University of Hertfordshire**.
 
-I'm actively seeking:
+I enjoy building machine learning models, analytics dashboards, and AI-powered applications that transform data into actionable insights. My interests span predictive analytics, NLP, computer vision, and business intelligence.
 
-- 🇬🇧 UK Placement Year Opportunities
-- 📊 Data Science Internships
-- 🤖 Machine Learning Internships
-- 📈 Data Analyst Roles
-- 📉 Business Intelligence Roles
+I'm currently seeking **UK Placement Year**, **Data Science**, **Machine Learning**, and **Data Analytics** opportunities.
 
 <br clear="right"/>
 
 ---
 
-# 🛠️ Technical Skills
+# 🛠 Tech Stack
 
-## 🐍 Programming Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python" height="40"/>
-<img src="https://skillicons.dev/icons?i=java" height="40"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="40"/>
-<img src="https://skillicons.dev/icons?i=js" height="40"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="40"/>
-<img src="https://skillicons.dev/icons?i=postgres" height="40"/>
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,mysql,postgres"/>
 </p>
 
----
-
-## 🤖 Machine Learning & AI
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow" height="40"/>
-<img src="https://skillicons.dev/icons?i=pytorch" height="40"/>
-<img src="https://skillicons.dev/icons?i=opencv" height="40"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge"/>
+### AI & Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+<img src="https://skillicons.dev/icons?i=flask,django"/>
 </p>
 
----
+**Libraries:** Scikit-learn • Keras • Pandas • NumPy • Plotly • Matplotlib
 
-## 📊 Data Analytics & Visualization
-
-<p align="left">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-2E8B57?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,react,nodejs,mongodb"/>
 </p>
-
----
-
-## 🌐 Backend & Databases
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=flask" height="40"/>
-<img src="https://skillicons.dev/icons?i=django" height="40"/>
-<img src="https://skillicons.dev/icons?i=react" height="40"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
-<img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
-<img src="https://img.shields.io/badge/REST%20API-25A162?style=for-the-badge"/>
-</p>
-
----
-
-## ☁️ Tools & Platforms
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git" height="40"/>
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
-<img src="https://skillicons.dev/icons?i=docker" height="40"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-<img src="https://img.shields.io/badge/Azure-Learning-0078D4?style=for-the-badge"/>
-</p>
-
----
-
-# 💼 Experience
-
-### 📊 Data Science Intern — QSpiders
-
-- Built Machine Learning models using Python & Scikit-Learn
-- Performed Exploratory Data Analysis (EDA)
-- Applied feature engineering techniques
-- Worked on model evaluation and performance optimization
-- Built interactive visualizations using Pandas, Matplotlib & Plotly
-
-### 📈 Data Analyst Associate Intern — Excelerate
-
-- Data cleaning and preprocessing
-- Dashboard creation
-- Business reporting
-- Data-driven decision support
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Domain | Technologies |
-|----------|---------|--------------|
-| 🌍 EcoVision | Economic Forecasting | Python, Scikit-Learn, Flask |
-| 🍽️ SmartBite AI | NLP & Recommendation Systems | Flask, MongoDB, Sentence Transformers |
-| 💊 PharmaGuard | Computer Vision | TensorFlow, CNN |
-| ⚔️ Pokémon Battle Simulator | AI Simulation | Python, Streamlit |
+### 🌍 EcoVision
+AI-powered economic forecasting platform using Python, Flask and Scikit-Learn.
+
+### 🍽 SmartBite AI
+Semantic food recommendation system powered by NLP and vector embeddings.
+
+### 💊 PharmaGuard
+Computer vision application for medicine recognition using deep learning.
+
+### ⚔ Pokémon Battle Simulator
+Interactive AI battle simulator built with Python and Streamlit.
+
+➡️ Explore more projects in my repositories.
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nitya-nama&show_icons=true&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitya-nama&layout=compact&hide_border=true"/>
+</p>
 
 ---
 
@@ -146,42 +96,23 @@ I'm actively seeking:
 
 ---
 
-# 📊 GitHub Analytics
+# 🤝 Connect
 
-<div align="center">
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nitya-nama&show_icons=true&hide_border=true&bg_color=1a0d2e&title_color=A78BFA&icon_color=F472B6&text_color=e9d5ff&count_private=true"/>
+<a href="https://nitya-nama.github.io/Portfolio/">Portfolio</a> •
+<a href="https://www.linkedin.com/in/nitya-nama">LinkedIn</a> •
+<a href="https://github.com/Nitya-nama">GitHub</a> •
+<a href="mailto:nityanama101@gmail.com">Email</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitya-nama&layout=compact&hide_border=true&bg_color=1a0d2e&title_color=A78BFA&text_color=e9d5ff"/>
-
-</div>
-
----
-
-# 📜 Certifications
-
-- Microsoft Power BI Professional Certificate *(In Progress)*
-- Additional certifications coming soon...
+</p>
 
 ---
 
-# 🤝 Let's Connect
-
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-6E3BFF?style=for-the-badge)](https://nitya-nama.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitya-nama)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nitya-nama)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nityanama101@gmail.com)
-
-<br/>
-
-> *"Turning data into intelligent decisions through Machine Learning and Analytics."*
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Nitya-nama&color=A78BFA&style=flat-square&label=Profile+Views)
-
-</div>
+**Turning data into intelligent decisions through Machine Learning & Analytics.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%"/>
+
+</div>
