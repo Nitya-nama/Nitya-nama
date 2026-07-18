@@ -1,64 +1,61 @@
 
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&pause=3000&color=8B5CF6&center=true&vCenter=true&width=700&lines=NITYA+NAMA;Machine+Learning+Engineer" />
+#  NITYA NAMA
 
-### MSc Data Science with Machine Learning • University of Hertfordshire
+### `Machine Learning Engineer • Data Science • AI`
+
+**MSc Data Science with Machine Learning**  
+University of Hertfordshire 🇬🇧
 
 <p>
-<a href="https://nitya-nama.github.io/Portfolio/">Portfolio</a> •
-<a href="https://github.com/Nitya-nama">GitHub</a> •
-<a href="https://www.linkedin.com/in/nitya-nama">LinkedIn</a> •
-<a href="mailto:nityanama101@gmail.com">Email</a>
+<a href="https://nitya-nama.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge"/></a>
+<a href="https://www.linkedin.com/in/nitya-nama"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:nityanama101@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=2500&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems;Machine+Learning+%7C+Data+Analytics;Python+%7C+TensorFlow+%7C+Power+BI;Open+to+UK+Placement+Opportunities"/>
+
 </div>
 
 ---
 
-<div align="center">
+# 🧠 AI Research Console
 
 ```text
-                     ◉────────────◉
-                 ╱        │         ╲
-             ◉───────────◉───────────◉
-             │          ╱ │ ╲         │
-             │       ◉───◉───◉        │
-             │      ╱     │     ╲     │
-             ◉─────◉──────◉──────◉────◉
-                    ╲      │      ╱
-                     ◉─────◉─────◉
-
-              AI • DATA • INTELLIGENCE
+┌────────────────────────────────────────────────────────────┐
+│  ● Neural Core        ● Analytics Engine      ● Model Lab │
+│                                                            │
+│     ○──────○──────○                                       │
+│      ╲    ╱ ╲    ╱                                        │
+│       ○──○──○──○                                          │
+│      ╱    ╲ ╱    ╲                                        │
+│     ○──────○──────○                                       │
+│                                                            │
+│      STATUS : ONLINE      AI SYSTEM : ACTIVE              │
+└────────────────────────────────────────────────────────────┘
 ```
-
-</div>
-
----
 
 <table>
 <tr>
-<td width="42%">
+<td width="36%">
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="100%">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="100%"/>
 
 </td>
+<td>
 
-<td width="58%">
+## About
 
-## 🧠 Neural Core
+I'm **Nitya Nama**, an MSc student in **Data Science with Machine Learning** at the **University of Hertfordshire**.
 
-I'm **Nitya Nama**, currently pursuing an **MSc in Data Science with Machine Learning** at the **University of Hertfordshire**.
+I enjoy building intelligent applications using **Machine Learning, Computer Vision, NLP, Data Analytics and Business Intelligence**.
 
-I build machine learning models, analytics dashboards and AI-powered applications using **Python, SQL, TensorFlow, PyTorch and Flask**.
-
-### Current Mission
-
+**Currently looking for**
+- 🇬🇧 UK Placement Year
+- 📊 Data Science
 - 🤖 Machine Learning
-- 📊 Data Analytics
-- ☁ Azure
-- 📈 Business Intelligence
-- 🔬 AI Applications
+- 📈 Data Analytics
 
 </td>
 </tr>
@@ -66,59 +63,43 @@ I build machine learning models, analytics dashboards and AI-powered application
 
 ---
 
-# ⚡ AI Modules
+# ⚡ Featured Projects
 
-| Module | Description |
-|--------|-------------|
-| 🌍 **EcoVision** | Economic forecasting using Machine Learning |
-| 🍽 **SmartBite AI** | Semantic food recommendation engine |
-| 💊 **PharmaGuard** | Computer Vision medicine recognition |
-| ⚔ **Pokémon Battle Simulator** | AI battle simulator with Streamlit |
-
----
-
-# 🛠 Technology Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,mysql,postgres"/>
-</p>
-
-### AI
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask,django,react,nodejs,mongodb"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker"/>
-</p>
+| Project | Stack |
+|---------|-------|
+| 🌍 **EcoVision** | Flask • Scikit-Learn • Python |
+| 🍽 **SmartBite AI** | NLP • MongoDB • Flask |
+| 💊 **PharmaGuard** | TensorFlow • CNN |
+| ⚔️ **Pokémon Battle Simulator** | Streamlit • Python |
 
 ---
 
-# 📊 System Analytics
+# 🛠 Tech Stack
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nitya-nama&show_icons=true&hide_border=true&theme=tokyonight"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitya-nama&layout=compact&hide_border=true&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,mysql,postgres,tensorflow,pytorch,opencv,flask,django,react,nodejs,mongodb,git,github,docker"/>
 </p>
 
 ---
 
-# 🚀 Currently Exploring
+# 📊 GitHub Dashboard
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nitya-nama&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Nitya-nama&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitya-nama&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📚 Currently Learning
 
 - Microsoft Power BI
+- Azure for Data Science
 - Advanced SQL
-- Azure Data Services
 - MLOps
 - Model Deployment
 
@@ -126,12 +107,11 @@ I build machine learning models, analytics dashboards and AI-powered application
 
 <div align="center">
 
-### CONNECT
+### Connect
 
-[Portfolio](https://nitya-nama.github.io/Portfolio/) •
-[LinkedIn](https://www.linkedin.com/in/nitya-nama) •
-[GitHub](https://github.com/Nitya-nama)
-
-**Building intelligent systems through data and machine learning.**
+<a href="https://nitya-nama.github.io/Portfolio">Portfolio</a> •
+<a href="https://github.com/Nitya-nama">GitHub</a> •
+<a href="https://www.linkedin.com/in/nitya-nama">LinkedIn</a> •
+<a href="mailto:nityanama101@gmail.com">Email</a>
 
 </div>
